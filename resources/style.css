@@ -91,3 +91,21 @@ h3{
    font-family: monospace;
    text-decoration: underline;
 }
+
+.firstheading{
+    color: white;
+}
+
+.white{
+    color: white;
+}
+ul{
+    color: white;
+    list-style-position: inside;
+}
+.text-panel h1{
+    font-family: Nunito Sans;
+}
+.text-panel h2{
+    font-family: Poppins;
+}
