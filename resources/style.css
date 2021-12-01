@@ -1,0 +1,49 @@
+html{
+    background-color: black;
+}
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 50px;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    color: white;
+    font-family: cursive;
+}
+.yellow{
+    background-color: #da9100;
+}
+.red{
+    background-color: #960018;
+}
+.pink{
+    background-color: #f49ac2;
+}
+.blue{
+    background-color: #0fc0fc;
+}
+.green{
+    display: block;
+    background-color: #008000;
+}
+.gray{
+    background-color: #344d56;
+}
+.color-panel{
+  text-align: center;
+  display: inline-block;
+  margin: 20px auto;
+  min-width: 100px;
+  min-width: 200px;
+  border-radius: 12.5%;
+}
+.sub-container{
+    text-align: center;
+    margin: 15px;
+    border: 5px solid white;
+    padding: 10px;
+}
