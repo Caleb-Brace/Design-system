@@ -1,5 +1,6 @@
 html{
     background-color: black;
+    font-size: 25px;
 }
 h1{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -27,7 +28,6 @@ h2{
     background-color: #0fc0fc;
 }
 .green{
-    display: block;
     background-color: #008000;
 }
 .gray{
@@ -41,9 +41,53 @@ h2{
   min-width: 200px;
   border-radius: 12.5%;
 }
+.font-panel{
+  color: white;
+  text-align: center;
+  margin: 100px;
+  display: block;
+}
 .sub-container{
     text-align: center;
     margin: 15px;
     border: 5px solid white;
     padding: 10px;
+}
+.comforter{
+    color: white;
+    font-family: 'Comforter', cursive;
+}
+
+.bold-comforter{
+    font-weight: bold;
+}
+.italic-comforter{
+    font-style: italic;
+}
+.roboto{
+    color: white;
+    font-family: 'Roboto Condensed', sons-serif;
+}
+
+.bold-roboto{
+    font-weight: bold;
+}
+.italic-roboto{
+    font-style: italic;
+}
+.yellowtail{
+    color: white;
+    font-family: 'Yellowtail', cursive;
+}
+
+.bold-yellowtail{
+    font-weight: bold;
+}
+.italic-yellowtail{
+    font-style: italic;
+}
+
+h3{
+   font-family: monospace;
+   text-decoration: underline;
 }
